@@ -7,7 +7,7 @@
 }
 
 h1 {
-  color: blue;
+  background: blue;
 }
 
 .green {
@@ -124,7 +124,7 @@ button[class|='secondary'] {
     color: red;
 }
 
-.lesson-three-task-ten p::first-line {
+.lesson-three-task-ten::first-line {
     background: yellow;
 }
 
